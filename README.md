@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhiram Sreekar Iruvanti
 - 👀 I am interested in making variety of projects
-- 🌱 I’m currently learning coding🤓
 - 📫 Reach me @abhiramsreekar123@gmail.com
 
 <!---
